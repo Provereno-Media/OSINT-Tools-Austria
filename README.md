@@ -2,7 +2,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria_FLAG"/>
 A list of OSINT resources and tools that may be useful to you when conducting investigations related to Austria. Most of the resources and tools has versions in German; many also in English. Basic company information (Kurzinformation) from the Firmenbuch is free on JustizOnline, while full extracts and land register (Grundbuch) extracts are paid. The register of beneficial owners (WiEReG) is open to the press and to civil-society organisations working against money laundering, which are presumed to have a legitimate interest. Enter names with German umlauts (ä, ö, ü, ß).
 
-**Last Updated:** 2026-10-14
+![Last updated](https://img.shields.io/github/last-commit/Provereno-Media/OSINT-Tools-Austria?label=Last%20updated)
 
 ## Contributions
 Feel free to join this project — [OSINT For Countries V2.0](https://github.com/Provereno-Media/OSINT-for-countries-V2.0)
